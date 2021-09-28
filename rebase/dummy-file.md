@@ -6,3 +6,5 @@ feat: rebase create commit 1
 feat: rebase create commit 2
 
 feat: rebase create commit 3
+
+commit 4
